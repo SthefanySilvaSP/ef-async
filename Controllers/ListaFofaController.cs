@@ -17,12 +17,21 @@ namespace ef_async.Controllers
         Utils.ConversorListaFofa conversor=new Utils.ConversorListaFofa();
 
         [HttpGet]
-        public async Task<List<Models.Response.ListaFofaResponse>> Listar()
+        public async Task<ActionResult<List<Models.Response.ListaFofaResponse>>> Listar()
         {
-            List<Models.TbListaFofa> tbLista= await Busi.ValidarListaFofa();
-            List<Models.Response.ListaFofaResponse> response= await Task.Run(()=>conversor.ParaResponse(tbLista));
+            try
+            {
+                List<Models.TbListaFofa> tbLista= await Busi.ValidarListaFofa();
+                List<Models.Response.ListaFofaResponse> response= await Task.Run(()=>conversor.ParaResponse(tbLista));
 
-            return response;
+                return response;
+            }
+            catch (System.Exception e)
+            {
+                
+                return new  NotFoundObjectResult(new Models.Response.ErroResponse.Erro(404,e.Message));
+            }
+           
         }
         
     }
