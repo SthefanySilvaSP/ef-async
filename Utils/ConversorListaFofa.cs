@@ -8,16 +8,15 @@ namespace ef_async.Utils
 {
     public class ConversorListaFofa
     {
-        public async Task<List<Models.Response.ListaFofaResponse>> ParaResponse(List<Models.TbListaFofa> tb)
+        public List<Models.Response.ListaFofaResponse> ParaResponse(List<Models.TbListaFofa> tb)
         {
-            List<Models.Response.ListaFofaResponse> response=await Task.Run(()=>tb.Select(x=>new Models.Response.ListaFofaResponse(){
+            List<Models.Response.ListaFofaResponse> response=tb.Select(x=>new Models.Response.ListaFofaResponse(){
                      IdListaFofa=x.IdListaFofa,
                      Fofura=x.NmFofura,
                      Porque=x.DsPorque,
                      Potinho=x.BtColocariaPotinho,
                      Niver=x.DtNiver
-            }
-            ).ToList());
+            }).ToList();
        
             
             return response;

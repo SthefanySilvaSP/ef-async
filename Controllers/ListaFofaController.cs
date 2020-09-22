@@ -1,12 +1,8 @@
-using System;
 using System.Collections.Generic;
-using System.Collections;
-
-using System.Linq;
-using System.Data;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+
+
 namespace ef_async.Controllers
 {
     [ApiController]
@@ -28,11 +24,8 @@ namespace ef_async.Controllers
             }
             catch (System.Exception e)
             {
-                
                 return new  NotFoundObjectResult(new Models.Response.ErroResponse.Erro(404,e.Message));
             }
-           
         }
-        
     }
 }

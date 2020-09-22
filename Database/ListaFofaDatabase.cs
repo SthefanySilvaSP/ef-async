@@ -1,11 +1,7 @@
-using System.Collections;
-using System.Linq;
-using System.Data;
-using System;
-using System.Net;
-
+using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using System.Collections.Generic;
+
 namespace ef_async.Database
 {
     public class ListaFofaDatabase
@@ -14,7 +10,7 @@ namespace ef_async.Database
         
         public async Task<List<Models.TbListaFofa>> Listar()
         {
-            return await Task.Run(()=>context.TbListaFofa.ToList());
+            return await context.TbListaFofa.ToListAsync();
         }
     }
 }

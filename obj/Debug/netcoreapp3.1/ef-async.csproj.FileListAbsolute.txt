@@ -60,3 +60,45 @@ C:\Users\Everson\Documents\web\nsf-web-async\ef-async\obj\Debug\netcoreapp3.1\st
 C:\Users\Everson\Documents\web\nsf-web-async\ef-async\obj\Debug\netcoreapp3.1\ef-async.dll
 C:\Users\Everson\Documents\web\nsf-web-async\ef-async\obj\Debug\netcoreapp3.1\ef-async.pdb
 C:\Users\Everson\Documents\web\nsf-web-async\ef-async\obj\Debug\netcoreapp3.1\ef-async.genruntimeconfig.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\ef-async.exe
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\ef-async.deps.json
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\ef-async.runtimeconfig.json
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\ef-async.runtimeconfig.dev.json
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\ef-async.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\ef-async.pdb
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.csprojAssemblyReference.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.AssemblyInfoInputs.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.AssemblyInfo.cs
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.csproj.CoreCompileInputs.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.RazorTargetAssemblyInfo.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.csproj.CopyComplete
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\staticwebassets\ef-async.StaticWebAssets.Manifest.cache
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\staticwebassets\ef-async.StaticWebAssets.xml
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.dll
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.pdb
+C:\Users\lucie\OneDrive\Documentos\STHEFANY\Frei\Software\Projetos\ef async\ef-async-1\obj\Debug\netcoreapp3.1\ef-async.genruntimeconfig.cache

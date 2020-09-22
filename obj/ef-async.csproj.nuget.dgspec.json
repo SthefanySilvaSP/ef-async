@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Everson\\Documents\\web\\nsf-web-async\\ef-async\\ef-async.csproj": {}
+    "C:\\Users\\lucie\\OneDrive\\Documentos\\STHEFANY\\Frei\\Software\\Projetos\\ef async\\ef-async-1\\ef-async.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Everson\\Documents\\web\\nsf-web-async\\ef-async\\ef-async.csproj": {
+    "C:\\Users\\lucie\\OneDrive\\Documentos\\STHEFANY\\Frei\\Software\\Projetos\\ef async\\ef-async-1\\ef-async.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Everson\\Documents\\web\\nsf-web-async\\ef-async\\ef-async.csproj",
+        "projectUniqueName": "C:\\Users\\lucie\\OneDrive\\Documentos\\STHEFANY\\Frei\\Software\\Projetos\\ef async\\ef-async-1\\ef-async.csproj",
         "projectName": "ef-async",
-        "projectPath": "C:\\Users\\Everson\\Documents\\web\\nsf-web-async\\ef-async\\ef-async.csproj",
-        "packagesPath": "C:\\Users\\Everson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Everson\\Documents\\web\\nsf-web-async\\ef-async\\obj\\",
+        "projectPath": "C:\\Users\\lucie\\OneDrive\\Documentos\\STHEFANY\\Frei\\Software\\Projetos\\ef async\\ef-async-1\\ef-async.csproj",
+        "packagesPath": "C:\\Users\\lucie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucie\\OneDrive\\Documentos\\STHEFANY\\Frei\\Software\\Projetos\\ef async\\ef-async-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Everson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lucie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
